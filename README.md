@@ -68,16 +68,20 @@ Lastly, Spotify allocates advertisements on each song, specifically for those wh
 
 1. Query 1 lists the name of the most played song on Spotify and its total play count.
 
-![Screen Shot 2023-03-31 at 5 50 12 PM](https://user-images.githubusercontent.com/128402101/229239154-7637136b-5ddd-400c-9335-f3e571507ed7.png)
+<img width="1162" alt="Screenshot 2024-10-17 at 11 39 59 AM" src="https://github.com/user-attachments/assets/ee58049d-cb41-4ee5-864c-e507ccdcf21e">
 
-Query 1 allows allows managers to see which song is the most popular of all time. These songs tend to garner a broad audience of Spotify users and identifies the artist associated with the song as the most popular streaming artist. Therefore, this query allows managers to leverage this information to determine the best song and artist to highlight for future promotional campaigns.
-
-
-2. Query 2 lists the number of dining reservations made by guests on each floor. The results are ordered in ascending order of floor number.
+Query 1 allows allows managers to see which song is the most popular of all time. These songs tend to garner a broad audience of Spotify users and identifies the most popular streaming artist. Therefore, this query allows managers to leverage this information to determine the best song to highlight for future promotional campaigns, advertisements, collaborations, or brand deals
 
 
+2. Query 2 lists the users who have played the song "Shape of You", their total play count of the song, and their percentage of play count from the overall total.
 
-Query 2 allows managers to see whether there is a trend between what floor a guest stays on and how much they reserve tabes at the resort's dining establishments. If managers were to find that dining reservations decreased as the floor number increased, it would have possibly indicated that guests were not dining at dining establishments because they felt the distance of the dining establishment from their room was too far and inconvenient.
+<img width="1162" alt="Query 2" src="https://github.com/user-attachments/assets/b8f4cb9b-5d1c-439b-a302-9c56b81c2e45">
+
+Query 2 allows managers to pinpoint users who have played "Shape of You", or any song in general, and compare their engagement with other users through their play count and percentage; the result is ordered in ascending order of their play count and respective percentages. This makes it easier to spot users who don't like a specific song as much as other users, who may be super fans, which signals to managers to remove the song from their curated playlists or from future recommendations, and vice versa. 
+
+
+whether there is a trend between what floor a guest stays on and how much they reserve tabes at the resort's dining establishments. If managers were to find that dining reservations decreased as the floor number increased, it would have possibly indicated that guests were not dining at dining establishments because they felt the distance of the dining establishment from their room was too far and inconvenient.
+
 
 3. Query 3 lists the information for all the guests who have not made an activity reservation.
 
