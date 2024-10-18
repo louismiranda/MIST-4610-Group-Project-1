@@ -88,8 +88,25 @@ Query 4 allows managers understand the demographics behind each subscription pla
 
 Query 5 allows managers to understand how user engagement is distributed across songs by artists from different countries and regions around the world. This gives managers a global perspective on the popularity of music in certain countries so that they can strategically form partnership with local artists from countries that show a high percentage of user interactions.
 
-6. 
+6. Query 6 lists the name of songs and their artists who have not recieved any likes and have not been shared.
 
+<img width="1095" alt="Screenshot 2024-10-17 at 11 33 44 PM" src="https://github.com/user-attachments/assets/0761a8da-e5c0-4118-a306-0dad75438c16">
+
+Query 6 allows managers to identify songs that users have played, but neither liked nor shared. Songs with no likes or shares are usually signs of underperformance and this is valuable feedback for both managers and artists since they can identify patterns or certain content that don't resonate well with users. Identifying underperforming songs is crucial for artists so that they know when to pivot into a new creative direction and make changes to their style. 
+
+7. Query 7 lists the top 5 artists and their country in North America with the most song plays across all users. The results are also ordered in descending order of the aggregated play count.
+
+<img width="1098" alt="Screenshot 2024-10-18 at 12 05 55 AM" src="https://github.com/user-attachments/assets/61fdbcfd-1525-4931-8e25-f20a1c7fc97f">
+
+Query 7 allows managers to see the most popular artists in terms of song plays in North America. Since song plays often contribute to both artist revenue and platform income (via ads or subscriptions), promoting artists with high play counts can maximize revenue. Zoning in on the top 5 also helps managers keep track of artist rankings and set benchmarks for other artists looking to break into the top 5. 
+
+8. Query 8 lists the name of songs and their genre that have "Pop" in the genre and a total play count greater or equal to 20
+
+<img width="1096" alt="Screenshot 2024-10-18 at 12 43 38 AM" src="https://github.com/user-attachments/assets/44e68437-a95e-4998-a872-2ed2efce34c8">
+
+Query 8 allows managers to identify successful songs specifically within the Pop genre and its other denominations. Not only can managers use this insight to make better Pop-centric playlists and song recommendations, but they can also identify emerging trends within specific genres, such as the growth of a new classification of Pop. For example, most of the songs outputted by the query were generic "Pop" songs, except for "Blinding Lights" which is a "Synth-pop" song, potentially showing that a new classification of Pop is gaining popularity. 
+
+9. 
 
 
 
