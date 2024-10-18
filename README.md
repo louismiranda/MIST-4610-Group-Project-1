@@ -106,8 +106,13 @@ Query 7 allows managers to see the most popular artists in terms of song plays i
 
 Query 8 allows managers to identify successful songs specifically within the Pop genre and its other denominations. Not only can managers use this insight to make better Pop-centric playlists and song recommendations, but they can also identify emerging trends within specific genres, such as the growth of a new classification of Pop. For example, most of the songs outputted by the query were generic "Pop" songs, except for "Blinding Lights" which is a "Synth-pop" song, potentially showing that a new classification of Pop is gaining popularity. 
 
-9. 
+9. Query 9 lists the total amount that advertisement companies have paid Spotify for running their ads. This amount is calculated by multiplying the number of times users have clicked on the ad and the cost per click. The results are also ordered in descending order of the total cost. 
 
+<img width="1097" alt="Screenshot 2024-10-18 at 1 30 24 AM" src="https://github.com/user-attachments/assets/c75e2757-2421-4e4f-a622-3b17c5fddb61">
+
+Query 9 allows managers to see a clear picture of how much advertisement companies are paying Spotify for ads, allowing them to easily track the revenues from running ads. This information is also valuable for the advertisement companies because they can optimize their ad campaigns and assess whether their spending amounts align with their expected return on investment (ROI). 
+
+10. 
 
 
 ## Database information:
