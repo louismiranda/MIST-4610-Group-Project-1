@@ -21,7 +21,6 @@ Explanation of data model:
 Our model is based on the structure of Spotify. The 'SubscriptionPlan' entity is representative of the select number of premium plans (Individual Premium, Family Premium, Student Premium, or Free) that Spotify offers for its users; this table tracks the type of subscription plan and their respective prices. Within each subscription plan, there are many users, and this is represented by the one-to-many relationship we have placed between the 'SubscriptionPlan' and 'User' entities. 
 
 The 'User' entity keeps track of a Spotify user's username, age, country, and more. This entity branches off into 2 relationships: a one-to-many relationship with the 'Playlist' entity and a many-to-many relationship with the 'Song' entity (explained further down below). The one-to-many relationship with 'Playlist' showcases how Spotify users can have many playlists.  
-
 The 'Playlist' entity keeps track of a playlist's name and creation date, and whether it was created by a user or Spotify-themselves. Each playlist on Spotify can have many songs, and each song can be on several playlists, which is represented through the many-to-many relationship we placed between the 'Playlist' and 'Song' entities (explained further down below).
 
 The 'Song' entity can be thought of as the core of our data model because it includes 4 many-to-many relationships between the 'User', 'Playlist', 'Artist', and 'Advertisement' entities. 
@@ -36,22 +35,38 @@ Lastly, Spotify allocates advertisements on each song, specifically for those wh
 
 
 ## Data Dictionary:
+<img width="515" alt="Screenshot 2024-10-17 at 7 32 52 PM" src="https://github.com/user-attachments/assets/b8bec433-e6f0-47b3-89c3-84eb4de5ee4f">
 
+<img width="518" alt="Screenshot 2024-10-17 at 7 33 59 PM" src="https://github.com/user-attachments/assets/f7c9852c-fb97-4334-820e-151965a142f9">
 
+<img width="516" alt="Screenshot 2024-10-17 at 7 37 20 PM" src="https://github.com/user-attachments/assets/1cd1bb55-790e-46db-a60c-d6f85b794c7a">
 
+<img width="517" alt="Screenshot 2024-10-17 at 7 41 54 PM" src="https://github.com/user-attachments/assets/62ea0a3a-3901-4be3-9875-d4942002078b">
+
+<img width="515" alt="Screenshot 2024-10-17 at 7 46 53 PM" src="https://github.com/user-attachments/assets/b6de7415-bffd-45f2-acac-3eb42b89981f">
+
+<img width="513" alt="Screenshot 2024-10-17 at 7 51 34 PM" src="https://github.com/user-attachments/assets/ce1e339b-64d7-4ade-8a84-bd369f48c2a6">
+
+<img width="517" alt="Screenshot 2024-10-17 at 7 55 29 PM" src="https://github.com/user-attachments/assets/abf6a113-5c79-47ca-861b-a6a146e5435e">
+
+<img width="511" alt="Screenshot 2024-10-17 at 7 57 56 PM" src="https://github.com/user-attachments/assets/ede21243-20c6-4a3a-ab67-c361454b4e26">
+
+<img width="515" alt="Screenshot 2024-10-17 at 8 02 22 PM" src="https://github.com/user-attachments/assets/045b6c76-b945-464a-b677-d98ae7200b16">
+
+<img width="514" alt="Screenshot 2024-10-17 at 8 08 20 PM" src="https://github.com/user-attachments/assets/1111c87b-552b-4468-99c3-b9794b3e7f39">
 
 ## Queries:
 
 1. Query 1 lists the name of the most played song on Spotify and its total play count.
 
-<img width="1162" alt="Screenshot 2024-10-17 at 11 39 59 AM" src="https://github.com/user-attachments/assets/ee58049d-cb41-4ee5-864c-e507ccdcf21e">
+<img width="1096" alt="Screenshot 2024-10-17 at 8 22 20 PM" src="https://github.com/user-attachments/assets/8fa3c527-ca44-4ce5-a90e-1d54df91d123">
 
 Query 1 allows allows managers to see which song is the most popular of all time. These songs tend to garner a broad audience of Spotify users and identifies the most popular streaming artist. Therefore, this query allows managers to leverage this information to determine the best song to highlight for future promotional campaigns, advertisements, collaborations, or brand deals
 
 
 2. Query 2 lists the users who have played the song "Shape of You", their total play count of the song, and their percentage of play count from the overall total.
 
-<img width="1162" alt="Query 2" src="https://github.com/user-attachments/assets/b8f4cb9b-5d1c-439b-a302-9c56b81c2e45">
+<img width="1097" alt="Screenshot 2024-10-17 at 8 23 27 PM" src="https://github.com/user-attachments/assets/0e45a612-f942-4277-ab6e-9699ab920f6d">
 
 Query 2 allows managers to pinpoint users who have played "Shape of You", or any song in general, and compare their engagement with other users through their play count and percentage; the result is ordered in ascending order of their play count and respective percentages. This makes it easier to spot users who don't like a specific song as much as other users, who may be super fans, which signals to managers to remove the song from their curated playlists or from future recommendations, and vice versa. 
 
