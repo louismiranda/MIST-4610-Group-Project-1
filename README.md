@@ -57,6 +57,8 @@ Lastly, Spotify allocates advertisements on each song, specifically for those wh
 
 ## Queries:
 
+<img width="549" alt="Screenshot 2024-10-18 at 2 25 59 AM" src="https://github.com/user-attachments/assets/68ca2e09-79ed-4dbc-be86-2d8f779d8d58">
+
 1. Query 1 lists the name of the most played song on Spotify and its total play count.
 
 <img width="1096" alt="Screenshot 2024-10-17 at 8 22 20 PM" src="https://github.com/user-attachments/assets/8fa3c527-ca44-4ce5-a90e-1d54df91d123">
@@ -112,8 +114,11 @@ Query 8 allows managers to identify successful songs specifically within the Pop
 
 Query 9 allows managers to see a clear picture of how much advertisement companies are paying Spotify for ads, allowing them to easily track the revenues from running ads. This information is also valuable for the advertisement companies because they can optimize their ad campaigns and assess whether their spending amounts align with their expected return on investment (ROI). 
 
-10. 
+10. Query 10 lists all the collaborations that the artist Dua Lipa has, including the song name and her role in the song. 
 
+<img width="1094" alt="Screenshot 2024-10-18 at 2 13 06 AM" src="https://github.com/user-attachments/assets/60e8d20b-b7cf-4875-9abf-23f5267c606a">
+
+Query 10 allows managers to see a comprehensive view of Dua Lipa's, or any artist's, collaborative work on Spotify. This insight is especially helpful for Dua Lipa's management team as they can identify trends or gaps in her collaborations, such as which roles she's already experienced in or which roles she has yet to try. In this case, Dua Lipa does not have a lot of collaborations so her team would suggest for her to form more connections with other artists to potentially collaborate and explore more roles.
 
 ## Database information:
 
