@@ -7,7 +7,7 @@
 ## Team Members:
 
 1. Louis Miranda [@louismiranda](https://github.com/louismiranda)
-2. Bond Surber [@](https://www.github.com/apm83682)
+2. Bond Surber [@bondsurber](https://www.github.com/bondsurber)
 3. Sidd Kawatra [@](https://www.github.com/RileyDoggett)
 
 ## Problem Description:
