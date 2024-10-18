@@ -64,17 +64,31 @@ Lastly, Spotify allocates advertisements on each song, specifically for those wh
 Query 1 allows allows managers to see which song is the most popular of all time. These songs tend to garner a broad audience of Spotify users and identifies the most popular streaming artist. Therefore, this query allows managers to leverage this information to determine the best song to highlight for future promotional campaigns, advertisements, collaborations, or brand deals
 
 
-2. Query 2 lists the users who have played the song "Shape of You", their total play count of the song, and their percentage of play count from the overall total.
+2. Query 2 lists the users who have played the song "Shape of You", their total play count of the song, and their percentage of play count from the overall total. The results are also ordered in ascending order of their play count and respective percentages.
 
 <img width="1097" alt="Screenshot 2024-10-17 at 8 23 27 PM" src="https://github.com/user-attachments/assets/0e45a612-f942-4277-ab6e-9699ab920f6d">
 
-Query 2 allows managers to pinpoint users who have played "Shape of You", or any song in general, and compare their engagement with other users through their play count and percentage; the result is ordered in ascending order of their play count and respective percentages. This makes it easier to spot users who don't like a specific song as much as other users, who may be super fans, which signals to managers to remove the song from their curated playlists or from future recommendations, and vice versa. 
+Query 2 allows managers to pinpoint users who have played "Shape of You", or any song in general, and compare their engagement with other users through their play count and percentage. This makes it easier to spot users who don't like a specific song as much as other users, who may be super fans, which signals to managers to remove the song from their curated playlists or from future recommendations, and vice versa, allowing for a more tailored and customized user experience.
 
+3. Query 3 lists the name of artists and their songs that are not currently in any playlists.
 
+<img width="1096" alt="Screenshot 2024-10-17 at 8 43 36 PM" src="https://github.com/user-attachments/assets/1d0c024d-c238-4859-9e87-855d29166acd">
 
+Query 3 allows managers to see which songs have not been added onto a playlist which indicates the artists and songs that may be under-promoted or overlooked. These song may have potential, but are not getting the attention that they deserve, so managers can introduce these songs to new playlists which will increase the diversity of users' playlist compositions while broadening the audience of underrepresented artists. 
 
+4. Query 4 lists the total number of users and their average age for each subscription plan. 
 
+<img width="1096" alt="Screenshot 2024-10-17 at 8 58 26 PM" src="https://github.com/user-attachments/assets/99ac9ddd-833e-4c70-af77-1461443a249f">
 
+Query 4 allows managers understand the demographics behind each subscription plan which can help them to refine their pricing strategies, design targeted campaigns, or develop new features within a plan that tailors to a specific age group. For example, since the average user age for the "Student Premium" plan is 21 consisting of mostly people who are financially constricted, managers can leverage this by offering bundles or student discounts to capture most of the student market, increasing loyalty and boosting revenues, overall.
+
+5. Query 5 lists all the countries that artists are from and the percentage of total user interactions associated with their songs.
+
+<img width="1093" alt="Screenshot 2024-10-17 at 10 11 21 PM" src="https://github.com/user-attachments/assets/2834fe21-57c2-487a-8ca7-c5d3833c0f9f">
+
+Query 5 allows managers to understand how user engagement is distributed across songs by artists from different countries and regions around the world. This gives managers a global perspective on the popularity of music in certain countries so that they can strategically form partnership with local artists from countries that show a high percentage of user interactions.
+
+6. 
 
 
 
