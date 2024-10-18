@@ -8,7 +8,7 @@
 
 1. Louis Miranda [@louismiranda](https://github.com/louismiranda)
 2. Bond Surber [@bondsurber](https://www.github.com/bondsurber)
-3. Sidd Kawatra [@](https://www.github.com/RileyDoggett)
+3. Sidd Kawatra [@siddKawatra](https://github.com/siddKawatra)
 
 ## Problem Description:
 
